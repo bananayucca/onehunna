@@ -1,2 +1,2 @@
 # onehunna
-poll a hundreds
+pool a hundreds
